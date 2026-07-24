@@ -1,0 +1,1633 @@
+10|1|[Captine] Alkedrada
+10|1|[Captine] Calllmecolar
+10|1|[Captine] Garukonga
+10|1|[Captine] Lapiona
+10|1|[Captine] Threthonez
+10|1|[Captine] Urukthrone
+10|1|Ancient
+10|1|Antares
+10|1|Ape
+10|1|Apostle
+10|1|Ash knight
+10|1|attila
+10|1|Baron
+10|1|Battalion
+10|1|Bifloans
+10|1|Blood Don
+10|1|BUGBEAR
+10|1|burning skeleton
+10|1|Burning Stone
+10|1|Cardinal
+10|1|Centaur
+10|1|Chooks
+10|1|Dark eyes
+10|1|Death knight
+10|1|Decayed Zombie
+10|1|Deruvish
+10|1|Dire wolf
+10|1|Dragon Tooth commander
+10|1|Dragon Tooth Skeleton
+10|1|Dragon Tooth soldier
+10|1|Dusk Orc
+10|1|Efos
+10|1|Flame Rock
+10|1|Foras
+10|1|Furson
+10|1|Gaap
+10|1|Garuna
+10|1|Giant golem
+10|1|Glyptodont
+10|1|GOBLIN bouncer
+10|1|GRAY OOZY
+10|1|GRELL
+10|1|Hagentee
+10|1|Half-Troll Warrior
+10|1|Harpy
+10|1|Haunga
+10|1|Haunga Warrior
+10|1|Hell hound
+10|1|HORNET
+10|1|Hyde
+10|1|Keilan
+10|1|King Aif
+10|1|KOBOLD
+10|1|Kongau
+10|1|Laird
+10|1|Lamia
+10|1|Lard Orc
+10|1|LICH
+10|1|Loup-garou
+10|1|Machirodus
+10|1|Manticore
+10|1|Mastodon
+10|1|Meganthereon
+10|1|Megarodon
+10|1|Merias
+10|1|Niverius
+10|1|Orias
+10|1|Orobeth
+10|1|Ose
+10|1|paralyzer
+10|1|Pincers scorpion
+10|1|POOKA
+10|1|Raven Harpy
+10|1|Rotten Eyes
+10|1|saber tooth
+10|1|Savage
+10|1|Scolar
+10|1|Scorpion
+10|1|scouting soldier
+10|1|Shadow seeker
+10|1|Sheriff
+10|1|Skeleton
+10|1|Skeleton champion
+10|1|Skeleton knight
+10|1|Skeleton warrior
+10|1|Smilodon
+10|1|Stegodon
+10|1|Stinger
+10|1|Stone golem
+10|1|treant
+10|1|Troll
+10|1|Troll Warrior
+10|1|Tyon
+10|1|undying
+10|1|Uruk Blade
+10|1|Uruk Hai
+10|1|Uruk Tron
+10|1|Wild smilodon
+10|1|Wolf Dog
+10|0|<Draki Rift>
+10|0|[10 Devil Summon Stone]
+10|0|[11 Devil Summon Stone]
+10|0|[12 Devil Summon Stone]
+10|0|[7 Devil Summon Stone]
+10|0|[8 Devil Summon Stone]
+10|0|[9 Devil Summon Stone]
+10|0|[Captain]Pasha
+10|0|[Elder] MorBor
+10|0|[Goblin cauldron]
+10|0|[Goblin food box]
+10|0|[Goblin Subjugation]Raul
+10|0|[Goblin wells]
+10|0|[High rank missioner] Tollnaga
+10|0|[Hunter]jareugeu
+10|0|[Karus Secret Locker]
+10|0|[Magic Association] Gather
+10|0|[Manager] Roktar
+10|0|[Mariners]armada
+10|0|[Mariners]hayeseu
+10|0|[Mercenary]Russel
+10|0|[Moradon Merchant] Shymer
+10|0|[National Enchanter]
+10|0|[NP Merchant] Merchini
+10|0|[Pitman] kurushack
+10|0|[Priest]Ann
+10|0|[Sentinel]Cape
+10|0|[Sentinel]Hashan
+10|0|[Sentinel]Melverick
+10|0|[Subjugation staff]Bergamo
+10|0|[Tactical]Josiah
+10|0|[Tomb Keeper]Bertem
+10|0|[White Shadow Captin] Sirin
+10|0|Advisor
+10|0|Arch Mage Drake
+10|0|Bellua monument
+10|0|Beron[Sundries]
+10|0|Captain Fargo
+10|0|Contaminated Karus Refugee
+10|0|Cubense[Armor]
+10|0|Eslant Woman
+10|0|Farmer
+10|0|Fina
+10|0|Great Priest Murka
+10|0|Guard
+10|0|Habice[Mantle]
+10|0|Inn hostess
+10|0|Karus Bulletine Board
+10|0|Karus Refugee
+10|0|Keeper of the Key
+10|0|Knight Clerk
+10|0|Laon Camp Gate
+10|0|Laon Camp Monument
+10|0|Leia
+10|0|Linate Board
+10|0|Linate Monument
+10|0|Linguist
+10|0|Luferson Monument
+10|0|Lunar Gate Guard
+10|0|Margaret
+10|0|Mori[Arms]
+10|0|Patroller of the Key
+10|0|Priest Minerva
+10|0|Prison
+10|0|Protector of the Key
+10|0|Raina [Lady Chamberlain]
+10|0|Ranger of the Key
+10|0|Recon
+10|0|Recon of the Key
+10|0|Roben [Election Committee]
+10|0|Royal Chef
+10|0|Royal Guard
+10|0|Runaway slaves
+10|0|Sadi
+10|0|Sara
+10|0|Secret Agent Clarence
+10|0|Sentinel of the Key
+10|0|Shama[Healing potion]
+10|0|Spirit Of Logos
+10|0|Tower of Power
+10|0|Warrior Master Skaky
+10|0|Watcher of the Key
+20|1|[Captine] Alkedrada
+20|1|[Captine] Calllmecolar
+20|1|[Captine] Garukonga
+20|1|[Captine] Lapiona
+20|1|[Captine] Threthonez
+20|1|[Captine] Urukthrone
+20|1|Ancient
+20|1|Antares
+20|1|Ape
+20|1|Apostle
+20|1|Ash knight
+20|1|attila
+20|1|Baron
+20|1|Battalion
+20|1|Bifloans
+20|1|Blood Don
+20|1|BUGBEAR
+20|1|burning skeleton
+20|1|Burning Stone
+20|1|Cardinal
+20|1|Centaur
+20|1|Chooks
+20|1|Dark eyes
+20|1|Death knight
+20|1|Decayed Zombie
+20|1|Deruvish
+20|1|Dire wolf
+20|1|Dragon Tooth commander
+20|1|Dragon Tooth Skeleton
+20|1|Dragon Tooth soldier
+20|1|Dusk Orc
+20|1|Efos
+20|1|Flame Rock
+20|1|Foras
+20|1|Furson
+20|1|Gaap
+20|1|Ganesa
+20|1|Garuna
+20|1|Giant golem
+20|1|Glyptodont
+20|1|GOBLIN bouncer
+20|1|GRAY OOZY
+20|1|GRELL
+20|1|Hagentee
+20|1|Half-Troll Warrior
+20|1|Harpy
+20|1|Haunga
+20|1|Haunga Warrior
+20|1|Hell hound
+20|1|HORNET
+20|1|Hyde
+20|1|Keilan
+20|1|King Aif
+20|1|KOBOLD
+20|1|Kongau
+20|1|Laird
+20|1|Lamia
+20|1|Lard Orc
+20|1|LICH
+20|1|Loup-garou
+20|1|Machirodus
+20|1|Manticore
+20|1|Mastodon
+20|1|Meganthereon
+20|1|Megarodon
+20|1|Merias
+20|1|Niverius
+20|1|Orias
+20|1|Orobeth
+20|1|Ose
+20|1|Panzer Bin
+20|1|paralyzer
+20|1|Pincers scorpion
+20|1|POOKA
+20|1|Raven Harpy
+20|1|Rotten Eyes
+20|1|saber tooth
+20|1|Savage
+20|1|Scolar
+20|1|Scorpion
+20|1|scouting soldier
+20|1|Shadow seeker
+20|1|Sheriff
+20|1|Skeleton
+20|1|Skeleton champion
+20|1|Skeleton knight
+20|1|Skeleton warrior
+20|1|Smilodon
+20|1|Stegodon
+20|1|Stinger
+20|1|Stone golem
+20|1|treant
+20|1|Troll
+20|1|Troll Warrior
+20|1|Tyon
+20|1|undying
+20|1|Uruk Blade
+20|1|Uruk Hai
+20|1|Uruk Tron
+20|1|Wild smilodon
+20|1|Wolf Dog
+20|0|<Draki Rift>
+20|0|[10 Devil Summon Stone]
+20|0|[11 Devil Summon Stone]
+20|0|[12 Devil Summon Stone]
+20|0|[7 Devil Summon Stone]
+20|0|[8 Devil Summon Stone]
+20|0|[9 Devil Summon Stone]
+20|0|[Advisor]Nez
+20|0|[Archmage] Drake
+20|0|[Armor Merchant]Tyroon
+20|0|[Arms Merchant]Pallus
+20|0|[Captain] Falkwine
+20|0|[Captain]redin
+20|0|[El Morad Secret Locker]
+20|0|[Elder] Atlas
+20|0|[Election Official]Roben
+20|0|[Goblin cauldron]
+20|0|[Goblin food box]
+20|0|[Goblin Subjugation]Wells
+20|0|[Goblin wells]
+20|0|[Grand Chamberlain]Laisa
+20|0|[Great Priest] Helena
+20|0|[Guard] Beth
+20|0|[Guard] Cheina
+20|0|[Guard] Zalk
+20|0|[Healing Potions]Ruber
+20|0|[Hunter]Halon
+20|0|[Imperial Palace Chef] Veros
+20|0|[Imperial Palace Guard] Telson
+20|0|[InnHost]Lined
+20|0|[Knight Clerk]Charel
+20|0|[Machinary] Tales
+20|0|[Magic Association] Knoker
+20|0|[Manager Eliot
+20|0|[mantle]Sarvis
+20|0|[Mariners]hein
+20|0|[Mariners]Kidd
+20|0|[Moradon Merchant] Clark
+20|0|[National Enchanter]
+20|0|[NP Merchant] Leona
+20|0|[Oracle] Clak
+20|0|[Pitman] kurushack
+20|0|[Priest]Minerva
+20|0|[Priest]Sol
+20|0|[Secret Agent] Clarence
+20|0|[Subjugation staff]Grey
+20|0|[Sundries]Yasval
+20|0|[Tactical]Grace
+20|0|[Tomb Keeper] Slay
+20|0|[Warrior Master] Skaki
+20|0|[White Shadow Captin] Sirin
+20|0|Asga Village Monument
+20|0|Contaminated Elmorad Refugee
+20|0|Doda Camp Gate
+20|0|Doda Camp Monument
+20|0|El Morad Monument
+20|0|Elmorad Bulletine Board
+20|0|Elmorad Refugee
+20|0|Eslant Woman
+20|0|Farm Manager
+20|0|Fina
+20|0|Guard
+20|0|Human Monument
+20|0|Keeper of the Key
+20|0|Leia
+20|0|Linguist
+20|0|Lunar Gate Sentinel
+20|0|Margaret
+20|0|Patroller of the Key
+20|0|Prison
+20|0|Protector of the Key
+20|0|Raiba Bullutain Board
+20|0|Raiba Village Monument
+20|0|Ranger of the Key
+20|0|Recon
+20|0|Recon of the Key
+20|0|Runaway slaves
+20|0|Sadi
+20|0|Sara
+20|0|Sentinel of the Key
+20|0|Spirit Of Logos
+20|0|Tower of Power
+20|0|Watcher of the Key
+110|1|[Betrayed Knights] Garoland
+110|1|[King of Barbarian] Marshil
+110|1|[Quest]Apostle
+110|1|[Quest]Stone Golem
+110|1|[Quest]Troll Berserker
+110|1|[Quest]Uruk Hai
+110|1|Aionclo
+110|1|Apostle
+110|1|Apostle of Flames
+110|1|Apostle of Piercing Cold
+110|1|Astalod
+110|1|Badin
+110|1|Balam
+110|1|Balrog
+110|1|Bearded Ruminant
+110|1|Befal
+110|1|Brahman
+110|1|Crimson Wing
+110|1|Dark Knight
+110|1|DARK MARE
+110|1|Dark stone
+110|1|Death Wizard
+110|1|Deruvish founder
+110|1|Doom Knight
+110|1|Doom Soldier
+110|1|Dragon tooth
+110|1|Dragon Tooth commander
+110|1|DREAD MARE
+110|1|Evil Wizard
+110|1|Falcon
+110|1|Gagoil
+110|1|Giant golem
+110|1|Grendel
+110|1|Grendel Mother
+110|1|Half-Troll Busucker
+110|1|Half-Troll Captain
+110|1|Half-Troll Curandero
+110|1|Harpy
+110|1|Harpy Queen
+110|1|Ireful Red Dragon
+110|1|Jepath
+110|1|Kaim
+110|1|Nightmare
+110|1|Paramun
+110|1|Pricilla
+110|1|Raum
+110|1|Raven Harpy
+110|1|Roneth
+110|1|Samma
+110|1|Satiros
+110|1|Shaula
+110|1|Snake Queen
+110|1|Stone golem
+110|1|Storming Apostle
+110|1|Subordinate of Badin
+110|1|Subordinate of Garlong
+110|1|Subordinate of Marsil
+110|1|Talos
+110|1|Titan
+110|1|Troll
+110|1|Troll Berserker
+110|1|Troll Captain
+110|1|Troll King
+110|1|Troll Shaman
+110|1|Troll Warrior
+110|0|[3 Devil Summon Stone]
+110|0|[4 Devil Summon Stone]
+110|0|[5 Devil Summon Stone]
+110|0|[6 Devil Summon Stone]
+110|0|[Ascetic]Veda
+110|0|[Eslant Wise] Pablo
+110|0|[Item Appraisers]rakkeoseu
+110|0|[Magic Association]Cesar
+110|0|[Magic Association]malraseu
+110|0|[Reserve Knight Captain] Rugur
+110|0|[Reserve Knight]Hill
+110|0|[Senior Researcher]Gaz
+110|0|[Traders]Drill
+110|0|Ardin[sundries]
+110|0|Guard
+110|0|Inn hostess
+110|0|Mars
+110|0|Prison
+110|0|Spirit Of Logos
+120|1|[Betrayed Knights] Garoland
+120|1|[King of Barbarian] Marshil
+120|1|[Quest]Giant golem
+120|1|[Quest]Lard Orc
+120|1|[Quest]Troll Captain
+120|1|[Quest]Uruk Tron
+120|1|Aionclo
+120|1|Apostle
+120|1|Apostle of Flames
+120|1|Apostle of Piercing Cold
+120|1|Astalod
+120|1|Badin
+120|1|Balam
+120|1|Balrog
+120|1|Bearded Ruminant
+120|1|Befal
+120|1|Brahman
+120|1|Crimson Wing
+120|1|Dark Knight
+120|1|DARK MARE
+120|1|Dark stone
+120|1|Death Wizard
+120|1|Deruvish founder
+120|1|Doom Knight
+120|1|Doom Soldier
+120|1|Dragon tooth
+120|1|Dragon Tooth commander
+120|1|DREAD MARE
+120|1|Evil Wizard
+120|1|Falcon
+120|1|Gagoil
+120|1|Giant golem
+120|1|Grendel
+120|1|Grendel Mother
+120|1|Half-Troll Busucker
+120|1|Half-Troll Captain
+120|1|Half-Troll Curandero
+120|1|Halion
+120|1|Harpy
+120|1|Harpy Queen
+120|1|Ireful Red Dragon
+120|1|Jepath
+120|1|Kaim
+120|1|Nightmare
+120|1|Paramun
+120|1|Pricilla
+120|1|Raum
+120|1|Raven Harpy
+120|1|Roneth
+120|1|Samma
+120|1|Satiros
+120|1|Shaula
+120|1|Snake Queen
+120|1|Stone golem
+120|1|Storming Apostle
+120|1|Subordinate of Badin
+120|1|Subordinate of Garlong
+120|1|Subordinate of Marsil
+120|1|Talos
+120|1|Titan
+120|1|Troll
+120|1|Troll Berserker
+120|1|Troll Captain
+120|1|Troll King
+120|1|Troll Shaman
+120|1|Troll Warrior
+120|0|[3 Devil Summon Stone]
+120|0|[4 Devil Summon Stone]
+120|0|[5 Devil Summon Stone]
+120|0|[6 Devil Summon Stone]
+120|0|[Ascetic] Tabeth
+120|0|[Eslant Wise] Man
+120|0|[Item Appraisers]Disney
+120|0|[Magic Association]pelroreu
+120|0|[Magic Association]reyisa
+120|0|[Reserve Knight Captain] Bel
+120|0|[Reserve Knight]Lily
+120|0|[Senior Researcher]aldoseu
+120|0|[Traders]Ellen
+120|0|Earth
+120|0|Guard
+120|0|Halber[sundries]
+120|0|Inn hostess
+120|0|Prison
+120|0|Spirit Of Logos
+130|1|[Betrayed Knights] Garoland
+130|1|[King of Barbarian] Marshil
+130|1|[Quest]Apostle
+130|1|[Quest]Stone Golem
+130|1|[Quest]Troll Berserker
+130|1|[Quest]Uruk Hai
+130|1|Aionclo
+130|1|Apostle
+130|1|Apostle of Flames
+130|1|Apostle of Piercing Cold
+130|1|Astalod
+130|1|Badin
+130|1|Balam
+130|1|Balrog
+130|1|Bearded Ruminant
+130|1|Befal
+130|1|Brahman
+130|1|Crimson Wing
+130|1|Dark Knight
+130|1|DARK MARE
+130|1|Dark stone
+130|1|Death Wizard
+130|1|Deruvish founder
+130|1|Doom Knight
+130|1|Doom Soldier
+130|1|Dragon tooth
+130|1|Dragon Tooth commander
+130|1|DREAD MARE
+130|1|Evil Wizard
+130|1|Falcon
+130|1|Gagoil
+130|1|Giant golem
+130|1|Grendel
+130|1|Grendel Mother
+130|1|Half-Troll Busucker
+130|1|Half-Troll Captain
+130|1|Half-Troll Curandero
+130|1|Harpy
+130|1|Harpy Queen
+130|1|Ireful Red Dragon
+130|1|Jepath
+130|1|Kaim
+130|1|Nightmare
+130|1|Paramun
+130|1|Pricilla
+130|1|Raum
+130|1|Raven Harpy
+130|1|Roneth
+130|1|Samma
+130|1|Satiros
+130|1|Shaula
+130|1|Snake Queen
+130|1|Stone golem
+130|1|Storming Apostle
+130|1|Subordinate of Badin
+130|1|Subordinate of Garlong
+130|1|Subordinate of Marsil
+130|1|Talos
+130|1|Titan
+130|1|Troll
+130|1|Troll Berserker
+130|1|Troll Captain
+130|1|Troll King
+130|1|Troll Shaman
+130|1|Troll Warrior
+130|0|[3 Devil Summon Stone]
+130|0|[4 Devil Summon Stone]
+130|0|[5 Devil Summon Stone]
+130|0|[6 Devil Summon Stone]
+130|0|[Ascetic]Veda
+130|0|[Eslant Wise] Pablo
+130|0|[Item Appraisers]rakkeoseu
+130|0|[Magic Association]Cesar
+130|0|[Magic Association]malraseu
+130|0|[Reserve Knight Captain] Rugur
+130|0|[Reserve Knight]Hill
+130|0|[Senior Researcher]Gaz
+130|0|[Traders]Drill
+130|0|Ardin[sundries]
+130|0|Guard
+130|0|Inn hostess
+130|0|Mars
+130|0|Prison
+130|0|Spirit Of Logos
+140|1|[Betrayed Knights] Garoland
+140|1|[King of Barbarian] Marshil
+140|1|[Quest]Apostle
+140|1|[Quest]Stone Golem
+140|1|[Quest]Troll Berserker
+140|1|[Quest]Uruk Hai
+140|1|Aionclo
+140|1|Apostle
+140|1|Apostle of Flames
+140|1|Apostle of Piercing Cold
+140|1|Astalod
+140|1|Badin
+140|1|Balam
+140|1|Balrog
+140|1|Bearded Ruminant
+140|1|Befal
+140|1|Brahman
+140|1|Crimson Wing
+140|1|Dark Knight
+140|1|DARK MARE
+140|1|Dark stone
+140|1|Death Wizard
+140|1|Deruvish founder
+140|1|Doom Knight
+140|1|Doom Soldier
+140|1|Dragon tooth
+140|1|Dragon Tooth commander
+140|1|DREAD MARE
+140|1|Evil Wizard
+140|1|Falcon
+140|1|Gagoil
+140|1|Giant golem
+140|1|Grendel
+140|1|Grendel Mother
+140|1|Half-Troll Busucker
+140|1|Half-Troll Captain
+140|1|Half-Troll Curandero
+140|1|Harpy
+140|1|Harpy Queen
+140|1|Ireful Red Dragon
+140|1|Jepath
+140|1|Kaim
+140|1|Nightmare
+140|1|Paramun
+140|1|Pricilla
+140|1|Raum
+140|1|Raven Harpy
+140|1|Roneth
+140|1|Samma
+140|1|Satiros
+140|1|Shaula
+140|1|Snake Queen
+140|1|Stone golem
+140|1|Storming Apostle
+140|1|Subordinate of Badin
+140|1|Subordinate of Garlong
+140|1|Subordinate of Marsil
+140|1|Talos
+140|1|Titan
+140|1|Troll
+140|1|Troll Berserker
+140|1|Troll Captain
+140|1|Troll King
+140|1|Troll Shaman
+140|1|Troll Warrior
+140|0|[3 Devil Summon Stone]
+140|0|[4 Devil Summon Stone]
+140|0|[5 Devil Summon Stone]
+140|0|[6 Devil Summon Stone]
+140|0|[Ascetic]Veda
+140|0|[Eslant Wise] Pablo
+140|0|[Item Appraisers]rakkeoseu
+140|0|[Magic Association]Cesar
+140|0|[Magic Association]malraseu
+140|0|[Reserve Knight Captain] Rugur
+140|0|[Reserve Knight]Hill
+140|0|[Senior Researcher]Gaz
+140|0|[Traders]Drill
+140|0|Ardin[sundries]
+140|0|Guard
+140|0|Inn hostess
+140|0|Mars
+140|0|Prison
+140|0|Spirit Of Logos
+150|1|[Betrayed Knights] Garoland
+150|1|[King of Barbarian] Marshil
+150|1|[Quest]Giant golem
+150|1|[Quest]Lard Orc
+150|1|[Quest]Troll Captain
+150|1|[Quest]Uruk Tron
+150|1|Aionclo
+150|1|Apostle
+150|1|Apostle of Flames
+150|1|Apostle of Piercing Cold
+150|1|Astalod
+150|1|Badin
+150|1|Balam
+150|1|Balrog
+150|1|Bearded Ruminant
+150|1|Befal
+150|1|Brahman
+150|1|Crimson Wing
+150|1|Dark Knight
+150|1|DARK MARE
+150|1|Dark stone
+150|1|Death Wizard
+150|1|Deruvish founder
+150|1|Doom Knight
+150|1|Doom Soldier
+150|1|Dragon tooth
+150|1|Dragon Tooth commander
+150|1|DREAD MARE
+150|1|Evil Wizard
+150|1|Falcon
+150|1|Gagoil
+150|1|Giant golem
+150|1|Grendel
+150|1|Grendel Mother
+150|1|Half-Troll Busucker
+150|1|Half-Troll Captain
+150|1|Half-Troll Curandero
+150|1|Halion
+150|1|Harpy
+150|1|Harpy Queen
+150|1|Ireful Red Dragon
+150|1|Jepath
+150|1|Kaim
+150|1|Nightmare
+150|1|Paramun
+150|1|Pricilla
+150|1|Raum
+150|1|Raven Harpy
+150|1|Roneth
+150|1|Samma
+150|1|Satiros
+150|1|Shaula
+150|1|Snake Queen
+150|1|Stone golem
+150|1|Storming Apostle
+150|1|Subordinate of Badin
+150|1|Subordinate of Garlong
+150|1|Subordinate of Marsil
+150|1|Talos
+150|1|Titan
+150|1|Troll
+150|1|Troll Berserker
+150|1|Troll Captain
+150|1|Troll King
+150|1|Troll Shaman
+150|1|Troll Warrior
+150|0|[3 Devil Summon Stone]
+150|0|[4 Devil Summon Stone]
+150|0|[5 Devil Summon Stone]
+150|0|[6 Devil Summon Stone]
+150|0|[Ascetic] Tabeth
+150|0|[Eslant Wise] Man
+150|0|[Item Appraisers]Disney
+150|0|[Magic Association]pelroreu
+150|0|[Magic Association]reyisa
+150|0|[Reserve Knight Captain] Bel
+150|0|[Reserve Knight]Lily
+150|0|[Senior Researcher]aldoseu
+150|0|[Traders]Ellen
+150|0|Earth
+150|0|Guard
+150|0|Halber[sundries]
+150|0|Inn hostess
+150|0|Prison
+150|0|Spirit Of Logos
+160|1|[Betrayed Knights] Garoland
+160|1|[King of Barbarian] Marshil
+160|1|[Quest]Giant golem
+160|1|[Quest]Lard Orc
+160|1|[Quest]Troll Captain
+160|1|[Quest]Uruk Tron
+160|1|Aionclo
+160|1|Apostle
+160|1|Apostle of Flames
+160|1|Apostle of Piercing Cold
+160|1|Astalod
+160|1|Badin
+160|1|Balam
+160|1|Balrog
+160|1|Bearded Ruminant
+160|1|Befal
+160|1|Brahman
+160|1|Crimson Wing
+160|1|Dark Knight
+160|1|DARK MARE
+160|1|Dark stone
+160|1|Death Wizard
+160|1|Deruvish founder
+160|1|Doom Knight
+160|1|Doom Soldier
+160|1|Dragon tooth
+160|1|Dragon Tooth commander
+160|1|DREAD MARE
+160|1|Evil Wizard
+160|1|Falcon
+160|1|Gagoil
+160|1|Giant golem
+160|1|Grendel
+160|1|Grendel Mother
+160|1|Half-Troll Busucker
+160|1|Half-Troll Captain
+160|1|Half-Troll Curandero
+160|1|Halion
+160|1|Harpy
+160|1|Harpy Queen
+160|1|Ireful Red Dragon
+160|1|Jepath
+160|1|Kaim
+160|1|Nightmare
+160|1|Paramun
+160|1|Pricilla
+160|1|Raum
+160|1|Raven Harpy
+160|1|Roneth
+160|1|Samma
+160|1|Satiros
+160|1|Shaula
+160|1|Snake Queen
+160|1|Stone golem
+160|1|Storming Apostle
+160|1|Subordinate of Badin
+160|1|Subordinate of Garlong
+160|1|Subordinate of Marsil
+160|1|Talos
+160|1|Titan
+160|1|Troll
+160|1|Troll Berserker
+160|1|Troll Captain
+160|1|Troll King
+160|1|Troll Shaman
+160|1|Troll Warrior
+160|0|[3 Devil Summon Stone]
+160|0|[4 Devil Summon Stone]
+160|0|[5 Devil Summon Stone]
+160|0|[6 Devil Summon Stone]
+160|0|[Ascetic] Tabeth
+160|0|[Eslant Wise] Man
+160|0|[Item Appraisers]Disney
+160|0|[Magic Association]pelroreu
+160|0|[Magic Association]reyisa
+160|0|[Reserve Knight Captain] Bel
+160|0|[Reserve Knight]Lily
+160|0|[Senior Researcher]aldoseu
+160|0|[Traders]Ellen
+160|0|Earth
+160|0|Guard
+160|0|Halber[sundries]
+160|0|Inn hostess
+160|0|Prison
+160|0|Spirit Of Logos
+210|1|[ Worm Queen] hideous
+210|1|[Captine] Bandiking
+210|1|[Captine] Byzombie
+210|1|[Captine] Gaboltin
+210|1|[Captine] Kekurikang
+210|1|[Captine] Keshark
+210|1|[Captine] Omega throne
+210|1|[Captine] Scoride
+210|1|[Captine] Skelcrown
+210|1|[Captine] Wolfraiger
+210|1|Antares
+210|1|Bandicoot
+210|1|Battalion
+210|1|Black Pirate Crew
+210|1|Blood worm
+210|1|Bulcan
+210|1|Bulture
+210|1|burning skeleton
+210|1|Changed Worm
+210|1|Crack Pursuer
+210|1|Dark eyes
+210|1|Death knight
+210|1|Dire wolf
+210|1|Gavolt
+210|1|Giant bulcan
+210|1|Giant gavolt
+210|1|Gloomwing
+210|1|Glyptodont
+210|1|GRELL
+210|1|Haunga
+210|1|Hyde
+210|1|Kecoon
+210|1|Kecoon captain
+210|1|Kecoon warrior
+210|1|Keilan
+210|1|Kekurikekukaka
+210|1|Lard Orc
+210|1|Looter
+210|1|Loup-garou
+210|1|Lycan
+210|1|Mana Predator
+210|1|Mastodon
+210|1|Orc Watcher
+210|1|paralyzer
+210|1|Pincers scorpion
+210|1|rabbit
+210|1|Raged Captain
+210|1|Rotten Eyes
+210|1|saber tooth
+210|1|Scavenger Bandicoot
+210|1|Scorpion
+210|1|Shadow Rift
+210|1|Shadow seeker
+210|1|Shadow Spectre
+210|1|shilan
+210|1|Skeleton
+210|1|Skeleton champion
+210|1|Skeleton knight
+210|1|Skeleton warrior
+210|1|Smilodon
+210|1|spoiler
+210|1|Stegodon
+210|1|undying
+210|1|Wander of Dimension
+210|1|Wandering Spectre
+210|1|Werewolf
+210|1|Wild smilodon
+210|1|Wold bulcan
+210|1|Worm
+210|0|[Arena Manager] Dualer
+210|0|[Canyon Keeper] Skar
+210|0|[CSW Manager] Aaron
+210|0|[DC Sundries] Diska
+210|0|[Elmo Dispatch Officer] Laidas
+210|0|[Entrep Trader] Berret
+210|0|[Familiar Trainer] Kate
+210|0|[FolkVillage Captain] Kronil
+210|0|[Grand Merchant] Kaishan
+210|0|[Hepa Pupil] Shozin
+210|0|[jewelry  worker]jew
+210|0|[Karus Dispatch Office] Porm
+210|0|[Lunar Order Priest] Blanc
+210|0|[makeup artist] Ulku
+210|0|[Manager]Billbor
+210|0|[Mercenary adjutant]
+210|0|[Mercenary adjutant] Lazer
+210|0|[Mercenary Supply Officer] Osm
+210|0|[Mercenary]
+210|0|[National Enchanter]
+210|0|[Operator] Moira
+210|0|[Pitman] kurushack
+210|0|[Potion] Kisiner
+210|0|[Priest] Iris
+210|0|[Security] Shield
+210|0|[Stadium Manager] Burak
+210|0|[Sundries]Lionel
+210|0|[Sundries]Rabiro
+210|0|[Tarot Reader] Mekin
+210|0|[Unknown Mage]
+210|0|[Vendor] Kaira
+210|0|[VIP Manager] Juliane
+210|0|[White Shadow Captin] Sirin
+210|0|[White Shadow] Lord
+210|0|Aban[Battlefield Gate-keeper]
+210|0|Adien[Beginner helper]
+210|0|Adventure
+210|0|Amelie
+210|0|Amrase[Handmade Weapon Arms]
+210|0|Black Market Operators
+210|0|Captain Kunabarl
+210|0|captain[Premium PC]
+210|0|Caspy[Accessory]
+210|0|Chain Scarecrow
+210|0|Charon
+210|0|Concerning Dad
+210|0|Concerning Mom
+210|0|Contaminated Amelie
+210|0|Dreamful Girl
+210|0|Elmorad Bulletine Board
+210|0|Emma (NPC)
+210|0|Guard
+210|0|Guard Patrick
+210|0|Homeless
+210|0|Inn hostess
+210|0|Iron Scarecrow
+210|0|iruta
+210|0|Jed
+210|0|Jerede[Handmade Armor]
+210|0|Karus Bulletine Board
+210|0|Kaul
+210|0|Layoffed Guard
+210|0|Leather Scarecrow
+210|0|Loner
+210|0|Lucky Yut
+210|0|Miraselth[Warehouse Keeper]
+210|0|Mysterious old man
+210|0|Nameless Warrior
+210|0|Pabian[Healing potion]
+210|0|Potrang
+210|0|Proconsul
+210|0|Ptoi[Healing potion]
+210|0|Pulchino
+210|0|Rental[Item Rental]
+210|0|Rudien[Sundries]
+210|0|Santa Claus
+210|0|Sharine
+210|0|Sighing man
+210|0|Spirit Of Logos
+210|0|Suspicious Box
+220|1|[ Worm Queen] hideous
+220|1|[Captine] Bandiking
+220|1|[Captine] Byzombie
+220|1|[Captine] Gaboltin
+220|1|[Captine] Kekurikang
+220|1|[Captine] Keshark
+220|1|[Captine] Omega throne
+220|1|[Captine] Scoride
+220|1|[Captine] Skelcrown
+220|1|[Captine] Wolfraiger
+220|1|Antares
+220|1|Bandicoot
+220|1|Battalion
+220|1|Black Pirate Crew
+220|1|Blood worm
+220|1|Bulcan
+220|1|Bulture
+220|1|burning skeleton
+220|1|Changed Worm
+220|1|Crack Pursuer
+220|1|Dark eyes
+220|1|Death knight
+220|1|Dire wolf
+220|1|Gavolt
+220|1|Giant bulcan
+220|1|Giant gavolt
+220|1|Gloomwing
+220|1|Glyptodont
+220|1|GRELL
+220|1|Haunga
+220|1|Hyde
+220|1|Kecoon
+220|1|Kecoon captain
+220|1|Kecoon warrior
+220|1|Keilan
+220|1|Kekurikekukaka
+220|1|Lard Orc
+220|1|Looter
+220|1|Loup-garou
+220|1|Lycan
+220|1|Mana Predator
+220|1|Mastodon
+220|1|Orc Watcher
+220|1|paralyzer
+220|1|Pincers scorpion
+220|1|rabbit
+220|1|Raged Captain
+220|1|Rotten Eyes
+220|1|saber tooth
+220|1|Scavenger Bandicoot
+220|1|Scorpion
+220|1|Shadow Rift
+220|1|Shadow seeker
+220|1|Shadow Spectre
+220|1|shilan
+220|1|Skeleton
+220|1|Skeleton champion
+220|1|Skeleton knight
+220|1|Skeleton warrior
+220|1|Smilodon
+220|1|spoiler
+220|1|Stegodon
+220|1|undying
+220|1|Wander of Dimension
+220|1|Wandering Spectre
+220|1|Werewolf
+220|1|Wild smilodon
+220|1|Wold bulcan
+220|1|Worm
+250|1|[ Worm Queen] hideous
+250|1|[Captine] Bandiking
+250|1|[Captine] Byzombie
+250|1|[Captine] Gaboltin
+250|1|[Captine] Kekurikang
+250|1|[Captine] Keshark
+250|1|[Captine] Omega throne
+250|1|[Captine] Scoride
+250|1|[Captine] Skelcrown
+250|1|[Captine] Wolfraiger
+250|1|Antares
+250|1|Bandicoot
+250|1|Battalion
+250|1|Black Pirate Crew
+250|1|Blood worm
+250|1|Bulcan
+250|1|Bulture
+250|1|burning skeleton
+250|1|Changed Worm
+250|1|Crack Pursuer
+250|1|Dark eyes
+250|1|Death knight
+250|1|Dire wolf
+250|1|Gavolt
+250|1|Giant bulcan
+250|1|Giant gavolt
+250|1|Gloomwing
+250|1|Glyptodont
+250|1|GRELL
+250|1|Haunga
+250|1|Hyde
+250|1|Kecoon
+250|1|Kecoon captain
+250|1|Kecoon warrior
+250|1|Keilan
+250|1|Kekurikekukaka
+250|1|Lard Orc
+250|1|Looter
+250|1|Loup-garou
+250|1|Lycan
+250|1|Mana Predator
+250|1|Mastodon
+250|1|Orc Watcher
+250|1|paralyzer
+250|1|Pincers scorpion
+250|1|rabbit
+250|1|Raged Captain
+250|1|Rotten Eyes
+250|1|saber tooth
+250|1|Scavenger Bandicoot
+250|1|Scorpion
+250|1|Shadow Rift
+250|1|Shadow seeker
+250|1|Shadow Spectre
+250|1|shilan
+250|1|Skeleton
+250|1|Skeleton champion
+250|1|Skeleton knight
+250|1|Skeleton warrior
+250|1|Smilodon
+250|1|spoiler
+250|1|Stegodon
+250|1|undying
+250|1|Wander of Dimension
+250|1|Wandering Spectre
+250|1|Werewolf
+250|1|Wild smilodon
+250|1|Wold bulcan
+250|1|Worm
+250|0|[Arena Manager] Dualer
+250|0|[Canyon Keeper] Skar
+250|0|[CSW Manager] Aaron
+250|0|[DC Sundries] Diska
+250|0|[Elmo Dispatch Officer] Laidas
+250|0|[Entrep Trader] Berret
+250|0|[Familiar Trainer] Kate
+250|0|[FolkVillage Captain] Kronil
+250|0|[Grand Merchant] Kaishan
+250|0|[Hepa Pupil] Shozin
+250|0|[jewelry  worker]jew
+250|0|[Karus Dispatch Office] Porm
+250|0|[Lunar Order Priest] Blanc
+250|0|[makeup artist] Ulku
+250|0|[Manager]Billbor
+250|0|[Mercenary adjutant]
+250|0|[Mercenary adjutant] Lazer
+250|0|[Mercenary Officer]
+250|0|[Mercenary Supply Officer] Osm
+250|0|[Mercenary]
+250|0|[National Enchanter]
+250|0|[Pitman] kurushack
+250|0|[Potion] Kisiner
+250|0|[Priest] Iris
+250|0|[Security] Shield
+250|0|[Stadium Manager] Burak
+250|0|[Sundries]Lionel
+250|0|[Sundries]Rabiro
+250|0|[Tarot Reader] Mekin
+250|0|[Unknown Mage]
+250|0|[Vendor] Kaira
+250|0|[VIP Manager] Juliane
+250|0|[White Shadow Captin] Sirin
+250|0|[White Shadow] Lord
+250|0|Aban[Battlefield Gate-keeper]
+250|0|Adien[Beginner helper]
+250|0|Adventure
+250|0|Amelie
+250|0|Amrase[Handmade Weapon Arms]
+250|0|Black Market Operators
+250|0|Captain Kunabarl
+250|0|captain[Premium PC]
+250|0|Caspy[Accessory]
+250|0|Chain Scarecrow
+250|0|Charon
+250|0|Concerning Dad
+250|0|Concerning Mom
+250|0|Contaminated Amelie
+250|0|Dreamful Girl
+250|0|Elmorad Bulletine Board
+250|0|Guard
+250|0|Guard Patrick
+250|0|Homeless
+250|0|Inn hostess
+250|0|Iron Scarecrow
+250|0|iruta
+250|0|Jed
+250|0|Jerede[Handmade Armor]
+250|0|Karus Bulletine Board
+250|0|Kaul
+250|0|Layoffed Guard
+250|0|Leather Scarecrow
+250|0|Loner
+250|0|Lucky Yut
+250|0|Miraselth[Warehouse Keeper]
+250|0|Mysterious old man
+250|0|Nameless Warrior
+250|0|Pabian[Healing potion]
+250|0|Potrang
+250|0|Proconsul
+250|0|Ptoi[Healing potion]
+250|0|Pulchino
+250|0|Rental[Item Rental]
+250|0|Rudien[Sundries]
+250|0|Santa Claus
+250|0|Sexy Santa[Parfait]
+250|0|Sharine
+250|0|Sighing man
+250|0|Spirit Of Logos
+250|0|Suspicious Box
+300|1|Dark eyes
+300|1|Dire wolf
+300|1|Lobo
+300|1|Loup-garou
+300|1|Lycan
+300|1|Shadow seeker
+300|1|Watcher
+300|0|Elrond[Siege War Weapons]
+300|0|Esadia[Inn]
+300|0|Hures[Sundries]
+300|0|Nion[Potions]
+300|0|Pinrod[Armors]
+300|0|Rorendil[Arms]
+310|1|Ape
+310|1|Ashiton
+310|1|Ego
+310|1|Envy
+310|1|Glutton
+310|1|Greed
+310|1|Guard tower
+310|1|Harpy
+310|1|Lamiros
+310|1|Lust
+310|1|Sloth
+310|1|The Messenger of Patoz
+310|1|Ultima
+310|1|Wrath
+310|0|[Potion] Kisiner
+310|0|Ardin[sundries]
+310|0|Halber[sundries]
+310|0|Inn hostess
+310|0|Raina[Healing potion]
+320|1|Black widow
+320|1|burning skeleton
+320|1|Cave leech
+320|1|Dark eyes
+320|1|Dire wolf
+320|1|fallen Angel
+320|1|Ghost warrior
+320|1|gloom  hound
+320|1|Lobo
+320|1|Orc bandit
+320|1|Orc bandit archer
+320|1|Phantom
+320|1|Reaper
+320|1|Shadow
+320|1|Shadow seeker
+320|1|Solid Bin
+330|1|Centaur
+330|1|Dark eyes
+330|1|Dire wolf
+330|1|Flame Rock
+330|1|gloom  hound
+330|1|GOBLIN bouncer
+330|1|HOBGOBLIN
+330|1|Isiloon
+330|1|Isiloon's Soldier
+330|1|Lobo
+330|1|Lutterslan
+330|1|Manticore
+330|1|Orc bandit
+330|1|Orc mage
+330|1|Orc Watcher
+330|1|Shadow seeker
+330|1|Wraith
+340|1|Felankor
+350|1|Dark Dragon
+350|1|Krowaz in Blood Red
+350|1|Tarantula
+350|1|Tarantula in Blood Red
+350|1|Unknown dead
+350|1|Wandering Knight Ghost
+350|0|[Curandero] Samathran
+350|0|[Pontifex] Scardy
+350|0|Delos Monument
+350|0|Saw blade
+350|0|Unknown Tombstone
+480|0|Rona[Healing potion]
+510|1|Orc prisoner
+510|0|Judge
+520|1|Blood Don
+520|0|Judge
+530|1|Goblin
+530|0|Judge
+540|1|Caitharos
+540|0|Judge
+550|0|Center Altar
+550|0|Judge
+610|0|Ardin[sundries]
+610|0|guard
+610|0|Halber[sundries]
+610|0|Inn hostess
+610|0|Keeper
+610|0|Recon
+610|0|Victory Gate
+610|0|Warder 1
+610|0|Warder 2
+620|0|[QuarterMaster]Hector
+620|0|[QuarterMaster]Valtor
+620|0|Citizen[sundries]
+620|0|El Morad Spy
+620|0|guard
+620|0|Halber[sundries]
+620|0|Inn hostess
+620|0|Karus Spy
+620|0|Keeper
+620|0|Recon
+620|0|Victory Gate
+620|0|Warder 1
+620|0|Warder 2
+630|0|[QuarterMaster]Hector
+630|0|[QuarterMaster]Valtor
+630|0|Ardin[sundries]
+630|0|El Morad Spy
+630|0|guard
+630|0|Halber[sundries]
+630|0|Inn hostess
+630|0|Karus Spy
+630|0|Recon
+640|0|Center Monument
+640|0|Citizen[sundries]
+640|0|El Morad Monument
+640|0|Inn hostess
+640|0|Karus Monument
+640|0|Keeper
+640|0|Victory Gate
+640|0|Wanigan
+640|0|Warder 1
+640|0|Warder 2
+660|0|[Elmorad Altar]
+660|0|[Elmorad Spy]
+660|0|[Karus Altar]
+660|0|[Karus Spy]
+660|0|[Potion Merchant] Amore
+660|0|[QuarterInstructor] Amy
+660|0|[QuarterInstructor] Dneero
+660|0|[QuarterMaster] Kalson
+660|0|[QuarterMaster] Walter
+660|0|Beron[Sundries]
+660|0|Burns Log
+660|0|Contaminated Elmorad Refugee
+660|0|Contaminated Karus Refugee
+660|0|Elmorad Guard tower
+660|0|Elmorad Refugee
+660|0|Guard
+660|0|Inn hostess
+660|0|Karus Guard tower
+660|0|Karus Refugee
+660|0|Keeper
+660|0|Raina[Healing potion]
+660|0|search party
+660|0|Tower of defense
+660|0|Tower of Power
+660|0|Victory Gate
+660|0|Warder 1
+660|0|Warder 2
+660|0|Yasbal[Sundries]
+690|0|Ardin[sundries]
+690|0|Halber[sundries]
+710|1|Ancient
+710|1|Apostle
+710|1|Apostle of Flames
+710|1|Apostle of Piercing Cold
+710|1|Atross
+710|1|Balog
+710|1|Blood seeker
+710|1|Booro
+710|1|Cardinal
+710|1|Crimson Wing
+710|1|Cruel
+710|1|Death knight
+710|1|Doom Soldier
+710|1|Dragon Fossil of Draki
+710|1|Dreadium Fossil of Dragon
+710|1|Enigma
+710|1|Evil Wizard
+710|1|Falcon
+710|1|Felankor
+710|1|fossil Guard
+710|1|Frokell
+710|1|Goloras
+710|1|Harpy
+710|1|Havoc
+710|1|Hell Fire
+710|1|HOBGOBLIN
+710|1|Keramash
+710|1|Lamia
+710|1|Mastodon
+710|1|Medikmash
+710|1|Nigmash
+710|1|Orc bandit archer
+710|1|Orc bandit leader
+710|1|Orc bandit officer
+710|1|Orc bandit Warrior
+710|1|Raven Harpy
+710|1|Riote
+710|1|Stone golem
+710|1|Titan
+710|1|Toll shamna
+710|1|treant
+710|1|Troll
+710|1|Troll Warrior
+710|1|Wild smilodon
+710|0|[InnHost]Lined
+710|0|[Sundries]Yasval
+710|0|Ardin[sundries]
+710|0|Guard tower
+710|0|Inn hostess
+720|1|Apostle
+720|1|Atross
+720|1|Baron
+720|1|Beast
+720|1|Blood Don
+720|1|Blood seeker
+720|1|Cardinal
+720|1|Dark eyes
+720|1|DARK MARE
+720|1|Death knight
+720|1|Deruvish
+720|1|Giant golem
+720|1|Harpy
+720|1|Haunga
+720|1|Lamia
+720|1|Lamiros
+720|1|Meganthereon
+720|1|Orc bandit archer
+720|1|Orc bandit officer
+720|1|Orc bandit Sorcerer
+720|1|Orc bandit Warrior
+720|1|paralyzer
+720|1|Raven Harpy
+720|1|Riote
+720|1|Stinger
+720|1|Stone golem
+720|1|Troll
+720|1|Troll Warrior
+720|0|[National Enchanter]
+720|0|[Search Captain]Laek
+720|0|[Search Captain]Zamed
+720|0|Ardin[sundries]
+720|0|Ardream Monument
+720|0|Guard tower
+720|0|Halber[sundries]
+720|0|Inn hostess
+720|0|Spirit Of Logos
+730|1|Ancient
+730|1|Apostle
+730|1|Atross
+730|1|Baron
+730|1|Blood Don
+730|1|Blood seeker
+730|1|Cardinal
+730|1|Dragon Tooth commander
+730|1|Haunga
+730|1|Raven Harpy
+730|1|Riote
+730|1|Troll
+730|1|Troll Warrior
+730|0|[Base Scout] Crewjed
+730|0|[BaseScout] Crable
+730|0|Ardin[sundries]
+730|0|Guard Tower
+730|0|Halber[sundries]
+730|0|Inn hostess
+730|0|Ronark Base Monument
+730|0|Sodun[Beginner Item Rental]
+730|0|Soren[Beginner Item Rental]
+730|0|Spirit Of Logos
+750|1|Ashiton
+750|1|Booro
+750|1|Cuff Binder
+750|1|Cuff Binder Son
+750|1|Giant golem
+750|1|Giga Hammer
+750|1|Knight of betrayal
+750|1|Krowaz
+750|1|Lirimu
+750|1|Minotaur
+750|1|Old Box
+750|1|Treant
+750|1|Treasure Chest
+750|0|[Portion] Amore
+750|0|[Portion] Ninomaxi
+750|0|[Portion] Sonyador
+750|0|[White Shadow] Garsha
+750|0|[White Shadow] Garsia
+750|0|[White Shadow] Scout Chief
+750|0|[White Shadow] Scout Marble
+750|0|[White Shadow] Scout Marin
+750|0|[White Shadow] Scout Mark
+750|0|[White Shadow] Scout Marvine
+750|0|[White Shadow] Treasure
+750|0|Benshar Pavilion
+750|0|Rolling Stone
+750|0|Saw blade
+760|1|Golden Puppy
+760|1|Rabbit
+760|1|Snowman
+760|1|Wanderer Skeleton
+760|1|Yellow Dog
+840|1|[Potion Merchant] Ruber
+840|1|[Potion Merchant] Shama
+840|1|[Sundries] Ardin
+840|1|[Sundries] Halber
+840|1|Altar of Manes
+840|1|Inn Hostess
+850|0|Chaos Cube
+850|0|Saw blade
+910|1|Kecoon
+920|1|Bandicoot
+920|1|Bulcan
+920|1|Bulture
+920|1|Gavolt
+920|1|Gloomwing
+920|1|Kecoon
+920|1|Scorpion
+920|1|silan
+920|1|Skeleton
+920|1|Werewolf
+920|1|Worm
+920|1|Zombie
+920|0|[Warden]Kabal
+930|1|Isiloon
+930|0|Judge 2
+940|1|Felankor
+960|0|Arena Monument
+970|0|Arena Monument
+980|0|Arena Monument
+990|0|Arena Monument
+1010|0|El Morad Spy
+1010|0|guard
+1010|0|Karus Spy
+1010|0|Recon
+1010|0|Victory Gate
+1020|0|El Morad Spy
+1020|0|guard
+1020|0|Karus Spy
+1020|0|Recon
+1020|0|Victory Gate
+2010|1|Apostle
+2010|1|Atross
+2010|1|Bach
+2010|1|Barkirra
+2010|1|Baron
+2010|1|Barrkk
+2010|1|Beast
+2010|1|Bishop
+2010|1|Blood Don
+2010|1|Blood seeker
+2010|1|bone collecter
+2010|1|Cardinal
+2010|1|Dark eyes
+2010|1|DARK MARE
+2010|1|Death knight
+2010|1|Deruvish
+2010|1|Duke
+2010|1|Giant golem
+2010|1|Harpy
+2010|1|Harunga
+2010|1|Haunga
+2010|1|Javana
+2010|1|Lamia
+2010|1|Lamiros
+2010|1|Lesath
+2010|1|Lobo
+2010|1|Lupus
+2010|1|Lycaon
+2010|1|Mastodon
+2010|1|Orc bandit archer
+2010|1|Orc bandit leader
+2010|1|Orc bandit officer
+2010|1|Orc bandit Sorcerer
+2010|1|Orc bandit Warrior
+2010|1|Raven Harpy
+2010|1|Riote
+2010|1|Samma
+2010|1|Shaula
+2010|1|Stegodon
+2010|1|Stinger
+2010|1|Stone golem
+2010|1|Troll
+2010|1|Troll Warrior
+2010|1|undying
+2010|0|Elmorad Assassin
+2010|0|Elmorad Commander
+2010|0|Elmorad Commanding Officer
+2010|0|Elmorad Vice Captain
+2010|0|Elmorad Warrior
+2010|0|Guard tower
+2010|0|Karus Assassin
+2010|0|Karus Commander
+2010|0|Karus Commanding Officer
+2010|0|Karus Vice Captain
+2010|0|Karus Warrior
