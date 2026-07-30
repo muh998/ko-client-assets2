@@ -7,3 +7,18 @@
 *.pdb
 *.lib
 *.mp3.wav
+
+# Backups / scratch — never committed. Real backups live in the repo-root _backups/.
+*.bak
+*bak
+*.pre*
+*.broken*
+*backup*
+_eslantzone_pre_*
+_eslantzone_backup_*
+out/
+_backups/
+*~
+
+# Pristine TBL backups (decode/encode round-trip siblings) — kept local, not committed
+NPC_Looks1.tbl
